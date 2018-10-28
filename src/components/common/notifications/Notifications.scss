@@ -1,0 +1,16 @@
+.HeaderComponent {
+  background-color: #243752;
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  margin: 0;
+}
+
+.HeaderComponent-Item {
+  padding: 15px 10px;
+}
+
+.HeaderComponent-Item a {
+  color: #fff;
+  text-decoration: none;
+}
